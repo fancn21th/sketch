@@ -6,8 +6,11 @@ set -e
 # 生成静态文件
 npm run build
 
+# 拷贝文件
+cp index.html sketch.js dist/
+
 # 进入生成的文件夹
-cd .
+cd dist
 
 # 如果是发布到自定义域名
 echo 'sketch.fancn21th.cn' > CNAME
