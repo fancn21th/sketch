@@ -31,7 +31,7 @@ const sketch = () => {
 
     points.forEach(([u, v]) => {
       const x = lerp(margin, width - margin, u);
-      const y = lerp(margin, width - margin, v);
+      const y = lerp(margin, height - margin, v);
 
       context.beginPath();
       context.arc(x, y, 100, 0, Math.PI * 2, false);
