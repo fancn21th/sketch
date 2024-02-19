@@ -17,3 +17,13 @@ git remote add origin git@github.com:fancn21th/sketch.git
 git branch -M main
 git push -u origin main
 ```
+
+## 本地执行 `deploy.sh`
+
+```shell
+npm run deploy
+```
+
+## Github 上的操作
+
+- 前往 [pages](https://github.com/fancn21th/sketch/settings/pages)

@@ -5,7 +5,8 @@
   "main": "sketch.js",
   "scripts": {
     "start": "canvas-sketch sketch.js --open",
-    "build": "canvas-sketch sketch.js --name index --build --inline"
+    "build": "canvas-sketch sketch.js --name index --build --inline",
+    "deploy": "./deploy.sh"
   },
   "keywords": [],
   "author": "fancn21th <fancn21th@aliyun.com> (http://fancn21th.cn/)",
