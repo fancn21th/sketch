@@ -7,7 +7,7 @@ set -e
 npm run build
 
 # 拷贝文件
-cp index.html sketch.js dist/
+cp -f index.html sketch.js dist/
 
 # 进入生成的文件夹
 cd dist
