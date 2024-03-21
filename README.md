@@ -42,6 +42,6 @@ npm run deploy
 - 在 Branch 下 选择 `master` 分支 点击保存
 - 等待 Custom domain 生效
 - 访问 `http://sketch.fancn21th.cn`
-- 等待 https 生效
+- 等待 Enforce HTTPS 生效
 - 勾选 `Enforce HTTPS`
 - 访问 `https://sketch.fancn21th.cn`
