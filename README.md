@@ -1,4 +1,10 @@
+<style type="text/css">
+h2 {color:red;}
+</style>
+
 # 如何创建一个子站点
+
+<h2>The sketch.fancn21th.cn is temporarily shut since too many cnames there. </h2>
 
 ## 先决条件
 
@@ -45,3 +51,4 @@ npm run deploy
 - 等待 Enforce HTTPS 生效
 - 勾选 `Enforce HTTPS`
 - 访问 `https://sketch.fancn21th.cn`
+
