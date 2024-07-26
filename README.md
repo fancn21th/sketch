@@ -1,10 +1,6 @@
-<style type="text/css">
-h2 {color:red;}
-</style>
-
 # 如何创建一个子站点
 
-<h2>The sketch.fancn21th.cn is temporarily shut since too many cnames there. </h2>
+~The sketch.fancn21th.cn is temporarily shut since too many cnames there.~
 
 ## 先决条件
 
