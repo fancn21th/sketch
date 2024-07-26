@@ -1,6 +1,6 @@
 # 如何创建一个子站点
 
-~The sketch.fancn21th.cn is temporarily shut since too many cnames there.~
+**The sketch.fancn21th.cn is temporarily shut since too many cnames there.**
 
 ## 先决条件
 
